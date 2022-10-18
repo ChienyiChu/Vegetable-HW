@@ -4,6 +4,7 @@
     height: 862px;
     padding: 36px 160px 0px 160px;
     background-color: #edf2c5;
+    margin:auto;
   }
 
   .flex{
@@ -305,7 +306,7 @@
   .box_footer {
     width: 301px;
     height: 14px;
-    margin: 0px 0px 0px 0px;
+    margin:auto;;
     padding: 23px 479px 23px 480px;
     background-color: #778a50;
   }
